@@ -37,7 +37,7 @@ Este é um projeto de um sensor que detecta o estado da praia, informando os tur
 
 ## Esquema Elétrico
 
-![Esquema Elétrico](esquema_eletrico.png)
+![Esquema Elétrico](./eletrico.png)
 
 ## Observações
 
